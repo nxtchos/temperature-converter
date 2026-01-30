@@ -29,4 +29,5 @@ python src/temp_app/converter.py
 - Professional project structure
 
 ## Author
-Your Name
+Natcha
+
